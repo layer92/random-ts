@@ -22,8 +22,10 @@
   },
   "homepage": "https://github.com/layer92/random-ts#readme",
   "dependencies": {
+    "crypto": "1.0.1"
+  },
+  "devDependencies":{
     "@types/node": "20.8.6",
-    "crypto": "1.0.1",
     "typescript": "5.2.2"
   }
 }
